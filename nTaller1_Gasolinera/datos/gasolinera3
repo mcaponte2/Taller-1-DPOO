@@ -1,0 +1,13 @@
+tipo:diesel:17500:90.0
+tipo:extra:16000:220.0
+tipo:corriente:15000:500.0
+tipo:low cost:12000:100.0
+surtidor:Luisa:diesel:0.0:extra:0.0:corriente:0.0:low cost:0.0
+surtidor:Manuela:diesel:0.0:extra:0.0:corriente:0.0:low cost:0.0
+surtidor:Valeria:diesel:0.0:extra:0.0:corriente:0.0:low cost:0.0
+surtidor:Maria Sofia:diesel:0.0:extra:0.0:corriente:0.0:low cost:0.0
+empleado:Mariana:0
+empleado:Manuela:0
+empleado:Maria Sofia:0
+empleado:Valeria:0
+empleado:Luisa:0
